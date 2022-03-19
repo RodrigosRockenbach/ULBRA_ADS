@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 19</title>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <!-- Popper JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+
+</head>
+<body>
+    <header class="jumbotron text-center">
+        <h1>TAREFA - 1</h1>
+        <h4>Tabela IMC ideal</h4>
+    </header>
+
+    <section class="container">
+        <div class="row">
+            <aside class="col-sm-5">
+                <h4>Tabela IMC:</h4>
+                <br>
+                <img class="imgResolution" src="img/IMC.png">
+            </aside>
+            <article class="col-sm-7">
+                    <form action="#">
+                        <h5>Digite o nome: 
+                        <input type="text" id="nome">
+                        </h5>
+                        <br>
+                        <h5>Escolha o sexo:
+                            <select id="escolha">
+                                <option value="M">Masc</option>
+                                <option value="S">Fem</option>
+                            </select>
+                        </h5>
+                        <br>
+                        <h5>Digite o peso: 
+                            <input type="number" id="peso">
+                        </h5>
+                        <br>
+                        <h5>Digite a altura: 
+                            <input type="number" id="altura">
+                        </h5>
+                        <br>
+                        <button type="button" onclick="calcular()">Calcular</button>
+                    </form>
+    
+            </article>
+        </div>
+    </section>
+
+    <footer class="jumbotron text-center">
+        <h4>Aula do dia 16/06/2021</h4>
+        <h5>@RodrigoRockenbach</h5>
+    </footer>
+</body>
+</html>

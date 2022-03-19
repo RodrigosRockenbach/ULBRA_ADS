@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogos AS</title>
+
+    <!-- Boostrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" href="assents/style.css">
+    <script src="assents/script.js"></script>
+</head>
+<body>
+    <header class="jumbotron-fluid">
+        <h1>Jogos Básicos com JS</h1>
+        
+    </header>
+
+    <section class="container pt-5">
+        <div class="row">
+            <article class="col justify-content-around">
+                <h3>Adivinhe o Número</h3>
+                <br>
+                <p>Adivinhe o número que pensei! <br> Número entre 1 e 10</p>
+                <input type="number" id="Adv">
+                <button type="button" onclick="Verificar()">Verificar</button>
+                <h5>Resultado:
+                    <p type="text" id="resultado"></p> 
+                    
+                </h5>
+
+            </article>
+            <div class="col-md-2"></div>
+
+            <aside class="col justify-content-around">
+                <h3>Par ou Impar</h3>
+                <br>
+                <p>Jogando com a CPU <br> Digite um número:</p>
+                <form action="#">
+                    <input type="number" id="numero">
+                    <select id="escolha">
+                        <option value="PAR">PAR</option>
+                        <option value="IMPAR">IMPAR</option>
+                    </select>
+                    <button type="button" onclick="Analisar()">Verificar</button>
+                    <h5>Resultado: 
+                        <p type="text" id="res"></p>
+                    </h5>
+                </form>
+            </aside>
+        </div>
+    </section>
+    <footer>
+        <h4>Rodrigo Rockenbach</h4>
+        <p>Indrodução ao Desenvolvimento Web</p>
+    </footer>
+</body>
+</html>

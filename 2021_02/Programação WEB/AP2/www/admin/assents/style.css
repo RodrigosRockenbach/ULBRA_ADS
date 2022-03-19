@@ -1,0 +1,39 @@
+*{
+    margin: 0%;
+
+}
+
+body{
+    text-align: justify;
+
+}
+
+header{
+    background-color: #247ba0 !important;
+    color: white;
+
+}
+
+article{
+    background-color: #4f9cc0 !important;
+    padding: 20px;
+
+}
+
+aside{
+    padding: 20px;
+
+}
+
+footer{
+    background-color: #247ba0 !important;
+    margin-bottom: auto !important;
+    color: white;
+
+}
+
+.nav-link{
+    color: rgb(66, 69, 73)
+
+}
+

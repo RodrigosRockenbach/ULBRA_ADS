@@ -1,0 +1,111 @@
+*{
+    margin: 0%;
+
+}
+
+body{
+    background-image: url(),
+    url(https://f.vividscreen.info/soft/8e0f4b4da22b68f020c59f4efb10e3c9/Pacman-Best-90-Game-wide-i.jpg);
+    background-repeat: no-repeat, repeat;
+    background-attachment: scroll, fixed;
+    background-blend-mode: luminosity;
+    height: 100px;
+    color: white;
+
+}
+
+header{
+    background-color: black;
+    text-align: center;
+    padding-top: 40px;
+    border: 1px solid rgb(146, 255, 4);
+    border-bottom: 1px solid gray;
+    box-shadow: 0px 0px 2px 2px rgb(146, 255, 4);
+    height: 150px;
+
+}
+
+section{
+    padding-bottom: 45px;
+
+}
+
+article{
+    background-color: black;
+    width: 25%;
+    height: 350px;
+    border: 1px solid gray;
+    padding: 10px;
+    box-shadow: 0px 0px 2px 2px rgb(146, 255, 4);
+    line-height: 35px;
+
+}
+
+aside{
+    background-color: black;
+    width: 25%;
+    height: 350px;
+    border: 1px solid gray;
+    padding: 10px;
+    box-shadow: 0px 0px 2px 2px rgb(146, 255, 4);
+    line-height: 35px;
+
+}
+
+footer{
+    background-color: black;
+    height: 150px;
+    border: 1px solid rgb(146, 255, 4);
+    border-bottom: 1px solid gray;
+    box-shadow: 0px 0px 2px 2px rgb(146, 255, 4);
+    text-align: center;
+    padding: 30px;
+
+}
+
+input{
+    width: 60%;
+    height: 30px;
+}
+
+button{
+    line-height: 25px;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+
+}
+
+h1{
+    color: rgb(250, 250, 250);
+
+}
+
+h2{
+    text-align: center;
+
+}
+
+h3{
+    text-align: center;
+    border-bottom: solid 1px #fff;
+    line-height: 40px;
+
+}
+
+#divTudo{
+    padding-top: 150px;
+
+}
+
+#quadro{
+    color: white;
+    background-color: rgb(12, 11, 11);
+    border: 1px solid gray;
+    padding: 20px;
+    box-shadow: 0px 0px 2px 2px rgb(146, 255, 4);
+    
+}

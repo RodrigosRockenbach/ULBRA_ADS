@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AP2-Parcial/AP2-Parcial.iml" filepath="$PROJECT_DIR$/AP2-Parcial/AP2-Parcial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ap2/Ap2.iml" filepath="$PROJECT_DIR$/Ap2/Ap2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula_12/Aula_12.iml" filepath="$PROJECT_DIR$/Aula_12/Aula_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Laboratório de Programação.iml" filepath="$PROJECT_DIR$/.idea/Laboratório de Programação.iml" />
+    </modules>
+  </component>
+</project>

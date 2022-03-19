@@ -1,0 +1,37 @@
+*{
+    margin: 0 auto;
+
+}
+
+body{
+    
+
+}
+
+header{
+    background-color: cadetblue !important;
+    text-align: center;
+
+}
+
+section{
+    text-align: justify;
+    padding: 30px;
+
+}
+
+article{
+    background-color: rgb(211, 211, 247) !important;
+
+}
+
+aside{
+    background-color: rgb(185, 176, 176) !important;
+
+}
+
+footer{
+    background-color: cadetblue !important;
+    text-align: center;
+
+}

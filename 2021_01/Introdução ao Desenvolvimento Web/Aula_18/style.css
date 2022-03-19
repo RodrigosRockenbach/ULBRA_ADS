@@ -1,0 +1,31 @@
+*{
+    margin: 0 auto;
+
+}
+
+body{
+    background-color: #666;
+}
+
+header{
+    text-align: center;
+    padding: 10px;
+
+}
+
+.DivTudo{
+    padding: 20px;
+    background-color: rgb(180, 170, 170);
+    width: 60%;
+    height: auto;
+    text-align: justify;
+}
+
+.DivDados{
+    width: 30%;
+    padding: 20px;
+    padding-top: 0px;
+    text-align: center;
+    background-color: lightgrey;
+
+}

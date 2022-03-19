@@ -1,0 +1,217 @@
+*{
+    margin: 0 auto;
+
+}
+
+body{
+    background-color: #e2e2e2;
+
+}
+
+table, td, th{
+    border-collapse: collapse;
+    padding: 7px;
+
+}
+
+
+th{
+    color: darkgray;
+    font-size: 14px;
+    text-align: center;
+    font-weight: normal;
+
+}
+
+td{
+    text-align: center;
+    font-size: 14px;
+
+}
+
+.DivTudo{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.DivLinha{
+    clear: both;
+
+}
+
+.PartidasResolution{
+    width: 50%;
+}
+
+.h2TituloGeral{
+    font-size: 20px;
+    padding: 10px;
+
+}
+
+.h3TituloGrupo{
+    font-size: 15px;
+    padding: 10px;
+
+}
+
+.DivVitoria{
+    background-image: url('../img/v.svg');
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+    float: left;
+    margin-right: 5px;
+
+}
+
+.DivEmpate{
+    background-image: url('../img/e.svg');
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+    float: left;
+    margin-right: 5px;
+    
+}
+
+.DivDerrota{
+    background-image: url('../img/d.svg');
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+    float: left;
+    margin-right: 5px;
+    
+}
+
+.Td_Clube{
+    text-align: left;
+
+}
+
+.ThClube{
+    width: 45%;
+
+}
+
+.TdLocalClube{
+    width: 4%;
+
+}
+
+.ThUltimasCinco{
+    width: 20%;
+
+}
+
+.TdImgClube{
+    width: 5%;
+
+}
+
+.TdUltimasCinco{
+    text-align: center;
+
+}
+
+.ImgClube{
+    max-width: 25px;
+    max-height: 25px;
+
+}
+
+.TdJogador{
+    width: 90%;
+    text-align: left;
+}
+
+.SpanNomeClube{
+    color: darkgray;
+    font-size: 14px;
+
+}
+
+.TableJogoGrupo{
+    width: 100%;
+    
+}
+
+.ThTableJogo{
+    font-size: 14px;
+    color: darkgray;
+    text-align: left;
+
+}
+
+.TdClubePartida{
+    text-align: left;
+    width: 50%;
+
+}
+
+.TdHorarioJogo{
+    text-align: center;
+    font-size: 12px;
+    line-height: 18px;
+
+}
+
+#TableGoleadores td{
+    padding: 20px 10px 10px 10px;
+
+}
+
+#DivCabecalho{
+    background-color: #162e5b;
+    min-height: 100px;
+    padding: 30px 30px 0px 40px;
+
+}
+
+#h1Titulo{
+    color: #fff;
+    font-size: 18px;
+    font-weight: normal;
+
+}
+
+#DivClassificacao{
+    width: 55%;
+
+}
+
+#DivGoleadores{
+    width: 55%;
+    
+}
+
+#DivPartidas{
+    width: 55%;
+    margin-bottom: 50px;
+    
+}
+
+#TableClassificacao{
+    width: 100%;
+    background-color: #fff;
+    
+}
+
+#TableGoleadores{
+    width: 100%;
+    background-color: #fff;
+
+}
+
+#TablePartidas{
+    width: 100%;
+    background-color: #fff;
+
+}
+
+#TrProximasParidas{
+    border-bottom: solid 1px;
+    color: darkgray;
+    
+}

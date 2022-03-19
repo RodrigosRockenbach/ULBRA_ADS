@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+
+}
+
+body{
+    text-align: justify;
+    
+}
+
+section{
+    padding-bottom: 30px;
+
+}
+
+article{
+    text-align: center;
+    padding: 10px;
+    border: solid 1px;
+    
+}
+
+aside{
+    border: solid 1px;
+    padding: 10px;
+    
+}

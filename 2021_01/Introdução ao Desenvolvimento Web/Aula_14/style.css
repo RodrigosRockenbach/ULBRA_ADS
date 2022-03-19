@@ -1,0 +1,111 @@
+*{
+    margin: 0 auto;
+
+}
+
+header{
+    padding: 20px !important;
+    border-bottom: 1px solid #000;
+    background-color: rosybrown;
+
+}
+
+section{
+    
+
+}
+
+article{
+
+    
+}
+
+aside{
+    border-left: 1px solid #000;
+
+}
+
+footer{
+    border-top: 1px solid #000;
+    
+}
+
+h1{ 
+    font-size: 60px !important; 
+    color: rgb(233, 95, 45);
+    font-weight: bold !important;
+
+}
+
+h4{
+    font-size: 20px !important;
+    font-weight: bold !important;
+    color: red;
+    
+}
+
+h5{
+    font-size: 20px !important;
+    font-weight: bold !important;
+}
+
+h6{
+    font-size: 14px !important;
+    color: red;
+    font-weight: bold !important;
+}
+
+
+.img_cabecalho{
+    width: 20%;
+    
+}
+
+.assuntos{
+    border-bottom: 1px solid rgb(156, 148, 148);
+    width: 100%;
+    padding-top: 20px;
+    clear: both !important;
+
+}
+
+.AssuntoEsquerda{
+    float: left;
+    width: 70%;
+
+}
+
+.AssuntoDireita{
+    float: left;
+    width: 30%;
+
+}
+
+.Propaganda{
+    background-color: rgb(15, 14, 14) !important;
+}
+
+.ImgColuna{
+    max-width: 100px;
+	max-height: 100px;
+	border-radius: 50%;
+}
+
+.noticias{ 
+    border-bottom: 1px solid #000;
+    width: 100%;
+    padding-top: 20px;
+
+}
+
+.NoticiasEsquerda{
+    float: left;
+    width: 70%;
+
+}
+
+.NoticiasDireita{
+    float: left;
+    width: 30%;
+
+}

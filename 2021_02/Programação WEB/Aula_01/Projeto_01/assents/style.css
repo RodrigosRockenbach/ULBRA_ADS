@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+
+}
+
+body{
+    text-align: justify;
+
+}
+
+header{
+    background-color: rgb(157, 165, 173) !important;
+    color: white;
+
+}
+
+article{
+    background-color: lightgray !important;
+    padding: 20px;
+
+}
+
+aside{
+    padding: 20px;
+
+}
+
+footer{
+    background-color: rgb(157, 165, 173) !important;
+    margin-bottom: auto !important;
+    color: white;
+}
+
+

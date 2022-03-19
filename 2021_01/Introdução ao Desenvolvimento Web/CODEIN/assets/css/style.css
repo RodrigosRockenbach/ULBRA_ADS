@@ -1,0 +1,25 @@
+*{
+    margin: 0 auto;
+
+}
+
+body{
+    background-color: rgb(226, 214, 214) !important;
+
+}
+
+header{
+    background-color: rgb(146, 151, 150) !important;
+}
+
+footer{
+    background-color: rgb(146, 151, 150) !important;
+    text-align: center;
+    padding: 60px;
+
+}
+
+h1{
+    text-align: center !important;
+
+}

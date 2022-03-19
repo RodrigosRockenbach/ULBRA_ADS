@@ -1,0 +1,169 @@
+*{
+    box-sizing: border-box;
+
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    
+}
+
+header{
+    background-color: #959595;
+    width: 100%;
+    text-align: center;
+    display: inline-block
+
+}
+
+ul li{
+    display: inline;
+
+}
+
+header a{
+    text-decoration: none;
+
+}
+
+.DivIcones a{
+    text-decoration: none;
+
+}
+
+nav{
+    width: 50%;
+    float: right; 
+    font-size: 20px;
+    
+}
+
+article{
+    background-color: #767c81;
+    width: 100%;
+    padding: 30px;
+    text-align: center;
+    display: inline-block
+
+}
+
+section{
+    width: 100%;
+
+}
+
+aside{
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 100px;
+    text-align: center;
+    background-color: rgb(184, 166, 163);
+    display: inline-block
+
+}
+
+footer{
+    background-color: rgb(59, 55, 55);
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+
+}
+
+h1{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: unset;
+    color: #000;
+
+}
+
+h2{
+    font-size: 20px;
+    text-align: center;
+    font-weight: unset;
+
+}
+
+h3{
+    font-weight: unset;
+    color: #000;
+}
+
+h4{
+    font-weight: unset;
+    font-size: 18px;
+    
+}
+
+p{
+    text-align: justify;
+
+}
+
+.ImgResolution{
+    width: 33.3%;
+    float: left;
+    
+}
+
+.LiMenu{
+    border: 1px solid;
+    background-color: #878383;
+    width: 100%;
+    text-align: center;
+    padding: 5px 50px 5px 50px;  
+
+}
+
+.ImgIcone{
+    max-width: 35px;
+    max-height: 35px;
+    
+    
+}
+
+.DivIcones{
+    width: 33.3%;
+    float: left;
+    font-size: 16px;
+
+}
+
+#img{
+	max-width: 250px;
+	max-height: 250px;
+	border-radius: 50%;
+
+}
+
+#ImgProjetos{
+    max-width: 250px;
+    max-height: 250px;
+    vertical-align: top;
+
+}
+
+#Nome{
+    width: 30%;
+    float: left;
+
+}
+
+
+#Quem{
+    background-color: #666666;
+    width: 100%;
+    padding: 50px;
+    text-align: center;
+
+}
+
+#Contatos{
+    text-align: center;
+}
+
+#Trabalhos{
+    text-align: center;
+}
